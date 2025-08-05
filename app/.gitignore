@@ -1,0 +1,26 @@
+/build 
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio specific
+.idea/
+*.iml
+*.iws
+
+# Keystore files (if any)
+*.jks
+
+# Firebase config
+app/google-services.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
